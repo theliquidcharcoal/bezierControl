@@ -179,7 +179,7 @@ void pinchDragged() {
 
 void loadData(){
    //Load JSON File
-   json = loadJSONObject("dataCopy.json");
+   json = loadJSONObject("data.json");
    
    JSONArray bezData = json.getJSONArray("bezs");
    
