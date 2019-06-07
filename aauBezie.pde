@@ -367,36 +367,3 @@ void structure(){
 
 
 }
-//void writeRectCommand() { 
-  //float xtext = width * .1;
-  //float ytext = height * .9;
-  //String str;
-
-  //fill(0);
-  //str = "bezier(";    
-  //text(str, xtext, ytext);   
-  //xtext += textWidth(str);
-
-  //fill(Colors[0]);
-  //str = nf(int(x1), 1)+", "+nf(int(y1), 1)+", ";
-  //text(str, xtext, ytext);   
-  //xtext += textWidth(str);
-
-  //fill(Colors[2]);
-  //str = nf(int(cx1), 1)+", "+nf(int(cy1), 1)+", ";
-  //text(str, xtext, ytext);
-  //xtext += textWidth(str);
-
-  //fill(Colors[3]);
-  //str = nf(int(cx2), 1)+", "+nf(int(cy2), 1)+", ";
-  //text(str, xtext, ytext);
-  //xtext += textWidth(str);
-
-  //fill(Colors[1]);
-  //str = nf(int(x2), 1)+", "+nf(int(y2), 1);
-  //text(str, xtext, ytext);   
-  //xtext += textWidth(str);
-
-  //fill(0);
-  //text(");", xtext, ytext);
-//}
